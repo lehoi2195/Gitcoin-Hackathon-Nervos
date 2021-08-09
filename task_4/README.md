@@ -11,6 +11,7 @@
 [https://explorer.nervos.org/aggron/transaction/0x3cf1fa46eb8efefee97d49c7c1fcf2b0f6ea7e91833c36eb81dadc8249e75cbc](https://explorer.nervos.org/aggron/transaction/0x3cf1fa46eb8efefee97d49c7c1fcf2b0f6ea7e91833c36eb81dadc8249e75cbc)
 
 ## 4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
-
+![](deposit.png)
 
 ## 5. The SUDT ID from the console output after executing the deposit script.
+616
